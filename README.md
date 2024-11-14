@@ -57,4 +57,5 @@ https://assetstore.unity.com/packages/2d/environments/2d-pixel-art-platformer-bi
   - Piskel - Create and edit GIF's into sprites
   - Freesound - Background sounds
      - forest summer Roond 003 200619_0186.wav by klankbeeld -- https://freesound.org/s/523957/ -- License: Attribution 4.0
+     - Village Game Theme Loop.wav by Mrthenoronha -- https://freesound.org/s/520710/ -- License: Attribution NonCommercial 4.0
   - ChatGPT - Final project planning and debugging
